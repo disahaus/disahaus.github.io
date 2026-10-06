@@ -1,0 +1,1 @@
+import{s as n,r as o}from"./consent.BtCuQJDF.js";const s={granted:"lubatud",denied:"keelatud"},a=document.querySelector("[data-consent-state]"),e=()=>{const t=o();a.textContent=t?s[t]:"vastus puudub"};for(const t of document.querySelectorAll("[data-consent]"))t.addEventListener("click",()=>{n(t.dataset.consent),e()});e();
