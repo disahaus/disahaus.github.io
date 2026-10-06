@@ -1,0 +1,1 @@
+import{F as i}from"./FrontPageScreen.BkgaOg-g.js";import"./runtime-dom.esm-bundler.BEM0aFGx.js";/* empty css                       */import"./_plugin-vue_export-helper.DlAUqK2U.js";export{i as default};
